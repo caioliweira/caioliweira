@@ -10,8 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioliweira&layout=compact&langs_count=6&theme=github_dark"/>
     <br>
 
-  <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,react,css,github,figma,js" />
+ <div align="center" >
+<img src="https://skillicons.dev/icons?i=html,react,css,github,figma,js" />
 </div><br/>
 
 
