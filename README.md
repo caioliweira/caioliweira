@@ -9,12 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioliweira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioliweira&layout=compact&langs_count=6&theme=github_dark"/>
     <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="80" alt="React Native">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="80" alt="JavaScript">
+
   <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,sass,github,figma,git,js" />
+  <img src="https://skillicons.dev/icons?i= html,react,css,github,figma,git,js" />
 </div><br/>
 
 
